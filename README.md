@@ -1,5 +1,11 @@
-* The project structure of the project can be found in ``` ./Project\ Structure.png ```
-* The databse structure of the project can be found in ``` ./Database\ Structure.png ```
+# The project structure of the project can be found in ``` ./Project\ Structure.png ```
+![Alt text](https://github.com/mishkat076/Task-Manager/blob/master/Project%20Structure.png?raw=true "Project Structure")
+
+# The databse structure of the project can be found in ``` ./Database\ Structure.png ```
+![Alt text](https://github.com/mishkat076/Task-Manager/blob/master/Database%20Structure.png?raw=true "Database Structure")
+
+# High Level Overview
+![Alt text](https://github.com/mishkat076/Task-Manager/blob/master/Overview.png?raw=true "Overview")
 
 # The Project Structure:
 
