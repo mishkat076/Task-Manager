@@ -1,11 +1,11 @@
-* The project structure of the project can be found in ./Project\ Structure.png
-* The databse structure of the project can be found in ./Database\ Structure.png
+* The project structure of the project can be found in ``` ./Project\ Structure.png ```
+* The databse structure of the project can be found in ``` ./Database\ Structure.png ```
 
 # The Project Structure:
 
 * Only the part we need is kept
 
-```java
+```
 .
 ├── src
 │   └── java
@@ -51,7 +51,7 @@ Instructs the TOMCAT container on which servlet to use.
 
 # The Database Structure:
 
-```java
+```
 CREATE TABLE tasks (
     taskId INT NOT NULL AUTO_INCREMENT,
     taskName VARCHAR(20) NOT NULL,
